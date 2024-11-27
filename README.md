@@ -1,4 +1,4 @@
-a<h1 align="center">Oi, eu sou Davi Silva</h1>
+<h1 align="center">Oi, eu sou Davi Silva</h1>
 <h3 align="center">🚀 Transformando Dados em Soluções Inteligentes: Engenharia, Análise e Inovação 📊</h3>
 
 - 📄 Tenho mais de 2 anos experiência em Engenharia e Análise de dados.
