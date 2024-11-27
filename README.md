@@ -1,13 +1,14 @@
 <h1 align="center">Oi, eu sou Davi Silva</h1>
 <h3 align="center">🚀 Transformando Dados em Soluções Inteligentes: Engenharia, Análise e Inovação 📊</h3>
 
-- 🌱 Atualmente estou aprendendo **ferramentas de Cloud, e MongoDB**
+- 📄 Tenho experiência em Engenharia e Análise de dados.
 
 - 💬 Me pergunte sobre **SQL, Python, Power BI, Power Apps, Power Automate, QlickSense, Dataplex, Google Cloud Plataform, SQL Server, Power Query, Dax, M, Figma**
 
+- 🌱 Atualmente estou aprendendo **ferramentas de Cloud, e MongoDB**
+
 - 📫 Você me acha através do e-mail: **davi.715@hotmail.com**
 
-- 📄 Tenho experiência em Engenharia e Análise de dados.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
