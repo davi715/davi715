@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou Davi Silva</h1>
 <h3 align="center">🚀 Transformando Dados em Soluções Inteligentes: Engenharia, Análise e Inovação 📊</h3>
 
-- 📄 Tenho experiência em Engenharia e Análise de dados.
+- 📄 Tenho mais de 2 anos experiência em Engenharia e Análise de dados.
 
 - 💬 Me pergunte sobre **SQL, Python, Power BI, Power Apps, Power Automate, QlickSense, Dataplex, Google Cloud Plataform, SQL Server, Power Query, Dax, M, Figma**
 
